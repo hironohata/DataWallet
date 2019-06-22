@@ -8,7 +8,6 @@ DataWallet has an ERC20 wallet in its center to manage operation and control of 
 It is planned that you can purchase dApps through Apps Store and relevant information is stored into the MyApps Directory.
 
 [Fig.1 DataWallet] (https://github.com/hironohata/DataWallet/blob/master/dataWallet.png)
-[Fig.1 DataWallet] (https://kaula.jp/2018/12/03/developdatawallet/) Or see dataWallet.png
  
  
 DataWallet was originally considered for applications of Automotive Blockchain and was greatly upgraded to be a general model of DataWallet. It can be used for various situations including
