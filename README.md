@@ -9,8 +9,6 @@ It is planned that you can purchase dApps through Apps Store and relevant inform
 
 ![Fig.1 DataWallet](dataWallet.png)
  
-[Fig.1 DataWallet] (https://github.com/hironohata/DataWallet/blob/master/dataWallet.png)
-
  
 DataWallet was originally considered for applications of Automotive Blockchain and was greatly upgraded to be a general model of DataWallet. It can be used for various situations including
 (1) DataWallet on a Smart Phone for personal use
