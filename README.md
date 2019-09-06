@@ -18,3 +18,6 @@ DataWallet was originally considered for applications of Automotive Blockchain a
 A beta release of DataWallet will launch in early 2019, and its usability to be examined by several blockchain applications.
 Further development is also planned to support Interoperability of blockchain applications even in limited environments.
 
+
+
+source: http://kaula.jp/
